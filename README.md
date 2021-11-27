@@ -6,11 +6,12 @@ This project was bootstrapped with(https://github.com/programming-hero-web-cours
 ## Our Target---
 * We want convenience for sales and service.
 
-* Providers arrive quickly and ready to work.
+• A full-stack e-commerce web app. 
 
-* You'll want to make sure that plenty of customers will choose your shop rather than one of your competitors.
+• The user can book products, give them a review, and can see booking status. 
 
-* Are easily reached with advertising, such as outdoor displays on main street next to campus.
+• Admin can change the order status, add service, delete service, edit service, and can make 
+someone an admin etc
 
 * They have a regular turnover of population/influx of new potential customers.
 
